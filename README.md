@@ -1,4 +1,4 @@
-# Aviation_Performance_Analysis
+# Airline_Performance_Analysis
 An interactive Excel tool analyzing flight efficiency, revenue, and passenger trends to optimize airline operations. 
 
 ## Table of Contents
@@ -28,7 +28,6 @@ This project demonstrates how data analytics can uncover operational insights an
 Using a combination of **Microsoft SQL Server** and **Microsoft Excel**, the raw dataset was cleaned, transformed, and visualized to solve business problems around route optimization, pricing, fuel efficiency, and passenger load.
 
 ## Business Objectives
-
 1. Optimize flight route efficiency  
 2. Understand fuel consumption patterns  
 3. Identify pricing inconsistencies across destinations  
